@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-This project consists of me setting up an active directory in oracle virutal Box. The end result will be a network that can act as a small company. This will also serve as a base for adding SEIM tools later on. 
+This project consists of me setting up an active directory in oracle virutal Box. The end result will be a network that can act as a small company. These environments will serve as a base for monitoring with SEIM tools for later projects. 
 <br />
 
 
