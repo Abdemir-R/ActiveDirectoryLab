@@ -6,7 +6,7 @@ Launch the utility: <br/>
 <br />
 <br />
 
-<h2>Setup 2 virtual machines one with windows 10 and another with server 19:</h2>
+<h2>Setup 2 virtual machines one with windows 10 and another with server 19. One is connected to internet the other with internal network:</h2>
 
 <p align="center">
 Launch the utility: <br/>
